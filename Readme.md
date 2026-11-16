@@ -144,6 +144,17 @@ The calculations assume that CostOfGood represents the cost per unit and salePri
 
 The month names were also converted into month numbers to ensure that monthly visualisations followed calendar order.
 
+### Dashboard Preview
+
+The following image shows the overall Power BI dashboard:
+
+![E-commerce Power BI Dashboard](Screenshots/E-Commerce_dashboard.png.png)
+
+### Filtered Dashboard
+
+The dashboard also includes interactive filters for exploring different years, months and product categories.
+
+![Filtered E-commerce Power BI Dashboard](Screenshots/E-Commerce_dashboard_filtered.png.png)
 
 
 **Key Performance Indicators**
